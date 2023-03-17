@@ -1,4 +1,4 @@
-# daire-alan-evresi-hesaplama
+# daire-alan-cevresi-hesaplama
 //patika.dev alan , çevre ödevi
 
 import java.util.Scanner;
